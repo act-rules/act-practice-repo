@@ -1,0 +1,284 @@
+# List of spelling to be ignored by spellcheck tests in `__tests__/spelling.js`
+
+# Project specific words
+- WAI
+- W3C
+- ACTR
+
+# Parts of url
+- http
+- https
+- wai-aria
+- validator
+
+# Tag(s)
+- svg # `aria-query` dom tags does not list `svg`
+- xhtml
+- DOCTYPE
+- iFrame # used to demonstrate bad spelling
+- Iframe
+- iframes
+- feImage
+
+# Domain-specific words, Definitions & other allowed terms
+- aam # lowercase needed in reference list
+- ABNF
+- URI
+- UA/AT
+- WCAG
+- WCAG2
+- WCAG21
+- CSS3
+- css # lowercase needed in reference list
+- UA
+- UI
+- api # lowercase needed in reference list
+- APIs
+- MDN
+- HTML5
+- HTML
+- JSON
+- JSON-LD
+- DOM
+- SVG
+- PDFs
+- DOCX
+- DPUB
+- dpub # lowercase needed in reference list
+- CSSOM
+- DNS
+- X11
+- IDL
+- idl # lowercase needed in reference list
+- Esc # esc key on a keyboard
+- url
+- voiceover
+- subtag
+- subtags
+- testrunner
+- color
+- focusable
+- unfocusable
+- tabindex
+- whitespace
+- textfield
+- namespace
+- namespaces
+- webpage
+- wai-aria-specifications
+- autoplay
+- autoplays
+- autoplaying
+- columnheader
+- rowheader
+- colspan
+- presentational
+- sc
+- dropdown
+- getModifierState
+- accesskey
+- Accesskeys
+- kerning
+- drawImage
+- pragma
+- namespaced
+- iso # lowercase needed in reference list
+- RFC
+- rfc
+- webauthn
+
+# spell checker checks against strict casing & hence some repeated words here
+- Autocomplete
+- Focusable
+- ascii
+- EARL10-Schema
+- labelable
+- merchantability
+- de-hello
+- 14pt
+- 18pt
+- Helvetica
+- DeviceOrientation
+- fieldsets
+- ascii # lowercase needed in reference list
+- CMS
+- dropdown
+
+# Parts of url
+- http
+- https
+- github.com
+- www.w3.org
+- eval
+- html52
+- css-scoping
+- csswg
+- whatwg
+- dom
+- wai-aria
+- multipage
+- attr-input-type
+- wai-aria-1.1
+
+# Notes and acronyms
+- TODO
+- TBD
+
+# Tool and library names
+- axe-core
+- alfa
+- RGAA
+- wcag-em-report-tool
+- ozplayer
+- GitHub
+
+# Test case anamolies
+- brewitt-taylor
+- level2-frame1
+- level1-frame2
+- level1-frame1
+- XYZ
+- Yu
+- Sumei
+- Tuttle
+- lnik # intentional misspelling
+
+# Attributes (repeated words with casing as retext-spell has no config to ignore casing)
+- href
+- src
+- srcset
+- aria-labelled # used to demonstrate wrong attribute
+- autofill-field
+- autocomplete
+- Autocomplete
+- tristate
+- viewport
+- lang
+- xml:lang
+- xml:id
+- http-equiv
+- user-scalable
+- user-scalable=yes
+- user-scalable=no
+- rotate3d
+- rotateZ
+- matrix3d
+- rowheader
+- columnheader
+- innerText
+- isTrusted
+- isComposing
+- x1
+- y1
+
+# DOM Events
+- auxclick
+- compostionend
+- compositionstart
+- compositionupdate
+- dblclick
+- keydown
+- keyup
+- keypressed
+- mousedown
+- mouseenter
+- mouseleave
+- mousemove
+- mouseout
+- mouseover
+- mouseup
+- scrollable-element
+- scrollWidth
+- scrollHeight
+- clientHeight
+- clientWidth
+- innerHeight
+- innerWidth
+- innerText
+- scrollbars
+- documentElement
+- rects
+- nowrap
+- javascript
+- Reflow
+- reflow
+- Viewport
+- dom-meta-content
+
+# Unsure why the dictionary does not have these words
+- programmatically
+- personalization
+- autofill
+- dismissible
+- implementers
+- implementor
+- implementors
+- presentational
+- backtick
+- camelCase
+- untestable
+- scrollable
+- scrollbars
+- subconditions
+- burlywood
+- cornsilk
+- subtree
+- unicity
+- Menuitem
+- menuitems
+- namespaced-element
+- Namespaced
+- namespaceURI
+- testability
+- focusability
+- unitless
+- luminance
+
+# Parts of Unicode
+- 000A
+- 000B
+- 000C
+- 000D
+
+# JSON attributes/ metadata/ methods
+- testcases
+- ruleId
+- ruleName
+- rulePage
+- ruleAccessibilityRequirements
+- cantTell
+- TestSubject
+- earl:cantTell
+- getComputedPriority
+- isPartOf
+- scId
+
+# sizes
+- 1em
+- 2em
+- 2px
+- 3px
+- 4px
+- 16px
+- 20px
+- 24px
+- 25px
+- 30px
+- 32px
+
+# Language codes
+- da
+- nl
+- de
+- eng
+
+# Color values
+- HSL
+- hsl
+- 0000EE
+
+# Variables used in definitions / descriptions
+- A-lum-max
+- A-lum-min
+- B-lum-max
+- B-lum-min
