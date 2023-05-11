@@ -1,6 +1,6 @@
 # ACT Practice Repo
 
-This repository is set up for you to practice working with GitHub. Nothing is attached to it. Feel free to play around and poke around in at is you want. You can use this repository to:
+This repository is set up for you to practice working with GitHub. Nothing is attached to it. Feel free to play around and poke around in at as you want. You can use this repository to:
 
 - Open an issue
 - Respond to an issue
